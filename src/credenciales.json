@@ -1,0 +1,17 @@
+{
+ //pegar aqui las credenciales de su firebase
+
+}
+
+ //Example
+ // "type": "service_account",
+ //  "project_id": "nodssdf2c",
+ //  "private_key_id": "2838f76esfsda1b835e70ba338e",
+ //  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnS09IQ1u036Vb\nE0++7ZgaIht3CxPnUv0EV0OTqSPHS6tfhO84u1Hh35dR7W/ysUqGO1IjK2uSiUip\nJWmlmDkP3+YyzqHWdVEuRvJ9dKSRCJoUot8mWVp8Zhv2AiFVGO1mTXOHWP8m2Kjx\nPk++w5BlGLErqwJc/rlk1tGjVOxmDAPDyc1cbC1PLRaLbpjE41iGLrWyblkV7xKI\ntUHQfZ0M6PJbXEqXTKpBqPk2H15hwafrgHmnFoWKqUAsh/Vm2MPhgF9b9bUU1PdN\nCldlWLGe6qXymwv/sSG5f2OBJORqLHpF0/gSnCit/cViPMRRJ8UwhVwnJ3CeILhs\nGx1pctTTAgMBAAECggEAPKgPnPHfRFt6huUfmuhmp8MKFkWL9+mdF3/UXquK722+\nOynl2roAXFdHdEsUtfgWP0ku5NWPcVgZYkrQXVwuBFV4D5/gCfQLdS4AKgCq0nM9\n+pF7O1pWdphHNxFaqJIbMWaPptlb2efgiWfAXjhmGGG1i1G7z6AD9E33QLM/61eF\ns4mirYzCloDCd4mXxS8nTIDdqFQD6XpB6Lt5++uSHhMx+4QAWVK8xap8GLWXh9V3\ntymaYjS+JpRdSIzTX2X3mw5rtZxRy++Tl+XsETlEzLcLeCXD/4UMbQvMyz0aNFkm\n3BZeWsdyxmULDRTZa9BOHyYLEiJajj+pYKYqmGhpAQKBgQDWeQeqWZcrV2IHLH1L\ncF+r2/OvhlBRSy9u8wIAiO1D/h0hnaNtdwgbsUiKoUz7IqUqopy0j4htGsUMWSGv\nRx3YZzHreMoBVUckj9B9vpmVzkcB0Gk1CrZpu4tKAwVKjPfvBbWFCugg0/5coTev\nx9aGF4yJUXoPGq3LhIbVpF/GEwKBgQDHr7wZ7VAKJGcMyDL2mFWaDVLPbhkHaNvU\nP7DxFoyZKfluBs9LsOaydPoWEy1FN1f2yBFINSYFAkw7na6AFT5ulIzowg16YyrM\nWGmp04G+Fe+irVT7NOtrwfbWeGSfQbqeMs+rMNau3TXMwJcIw7v4MTXoL5PcoGfg\nNcc5whGOQQKBgQDUMfDkmTlYt18Uq+7XWbo+ZiMm0aPbmqC2jBW6A7+EGwIlhTrx\njehmxbN4/XgVrMRvd23Fs5EOKYM14WXTbnBX8FnSmLJ8OSxnPybPkmmQbwOQBuxg\nf1XVLKn2MyDkDq8rPKHInO7ns/chHJzk/LoB94CjSAqUsResmVVyQOxFIwKBgB+p\n5hHWZ5K0IwML28jubuR2qGLr+lwKbJFDaDNSeAjxdvPTcJt3+Zzin6VQdSU8mV4w\na00f4F969cuePUViGPw/4fgmjSyS/P5aJqcfOruBjvYktgz/XzU/FHz9qjb2nTjo\npbVnkSM5QIavI0Poha3dX8bphHC/nrkWzfiCpXYBAoGACYHSEBk9LoMSfZGsV1fh\nvH8NummLnnQnTHUmfCPRL+Rth/qJEPxqmMkBGMiqU9RK3uqb9MnxC1QyC+eCLBlm\nrzivbzNMIRd4i36dlycVmcBPSsmX3IfimXTyy9A6Rlw5Lt0SuRIrFwuY2Jr04MtS\n6cvrCuexYjYrSTPMAfwnTiE=\n-----END PRIVATE KEY-----\n",
+ //  "client_email": "firebasdfsdf-lebjx@nodejsfirebsdfase-b592c.iam.gserviceaccount.com",
+ //  "client_id": "113989023482544087",
+ //  "auth_uri": "https://account234234auth2/auth",
+ //  "token_uri": "https://oauth2.24/token",
+ //  "auth_provid234l": "https://www.googleapis.com/oauth2/v1/certs",
+ //  "client_x509_cert_url": "https://4234.com/robot/v1/metadata/x509/firebase-adminsdk-lebjx%40nodejsfirebase-b592c.iam.gserviceaccount.com"
+
